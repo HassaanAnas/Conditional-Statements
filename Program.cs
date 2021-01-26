@@ -96,7 +96,7 @@ namespace Conditional_Statements
                 // else statement for grade F
                 else
                 {
-                    Console.WriteLine("Congratulations! You have an F");
+                    Console.WriteLine(" You have an F");
                 }
                         
 
